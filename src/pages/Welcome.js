@@ -1,6 +1,5 @@
-import React from 'react'
 
-function Welcome() {
+const Welcome = () => {
   return (
     <div>
       <h1>The Welcome Page</h1>

@@ -1,6 +1,5 @@
-import React from 'react'
 
-function Product() {
+const Product = () => {
   return (
     <div>
       <h1>The Product Page</h1>
